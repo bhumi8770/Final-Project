@@ -157,5 +157,3 @@ fn symbol(e: Env) -> String {
 read_symbol(&e)
 }
 }
-
-hello
